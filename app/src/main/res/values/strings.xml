@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GroupProject</string>
+    <string name="drawer_opened">메뉴 열기</string>
+    <string name="drawer_closed">메뉴 닫기</string>
+    <string name="api_key">U8eXfMXTAK5tlFQFNaDzSGM9ODIIAL0MHgdRoyd0zrVJoZDlFW/OpmvaEVA4rkaJ0cC74skI1SfzFYnYrGNnug==</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

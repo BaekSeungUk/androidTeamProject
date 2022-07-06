@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="강서구"
+        android:id="@+id/item1"/>
+    <item
+        android:title="사상구"
+        android:id="@+id/item2"/>
+    <item
+        android:title="북구"/>
+    <item
+        android:title="금정구"/>
+    <item
+        android:title="기장군"/>
+    <item
+        android:title="부산진구"/>
+    <item
+        android:title="동래구"/>
+    <item
+        android:title="연제구"/>
+    <item
+        android:title="해운대구"/>
+    <item
+        android:title="수영구"/>
+    <item
+        android:title="중구"/>
+    <item
+        android:title="동구"/>
+    <item
+        android:title="남구"/>
+    <item
+        android:title="사하구"/>
+    <item
+        android:title="서구"/>
+    <item
+        android:title="영도구"/>
+
+
+
+</menu>
